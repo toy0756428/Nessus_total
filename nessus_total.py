@@ -1,4 +1,7 @@
+#!/usr/bin/env python
 #encoding:UTF-8
+#version1.0
+
 import os
 import urllib.request
 from bs4 import BeautifulSoup
